@@ -1,4 +1,6 @@
 📊 Advertising Campaign Analytics Dashboard
+
+![Preview Dashboard](Advertising Campaign Analytics.png)
 An interactive dashboard for in-depth analysis of marketing campaign performance. This tool enables users to navigate from high-level business KPIs down to a granular audit of specific Ad Sets.
 
 Objective: To optimize marketing expenditures and identify the most profitable traffic acquisition channels through data-driven insights.
